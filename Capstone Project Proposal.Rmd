@@ -1,0 +1,23 @@
+---
+title: "Capstone Project Proposal"
+author: "Shahzeb Arif"
+date: "1/24/2018"
+output: html_document
+---
+
+Every year before the NFL draft, the league invites potential draft picks to participate in the NFL scouting combine. The combine consists of physical and mental tests that help scouts, general managers, owners etc. predict how successful a player will be in the NFL and ultimately determine a player’s “draft stock”. But how accurate is the combine? Will gaudy combine stats actually lead to a long and productive NFL career? 
+
+The average playing career for an NFL player is 3.3 seasons. So we will define success in the NFL as anyone who has played more than 3 seasons in the NFL. Most rookie contracts are 3-4 years so this will also predict what players actually received a second contract in the NFL. 
+
+For this project we are only concerned with players that have above average combine statistics. The five combine activities that will be utilized are: the 40 yard dash, the vertical jump, bench reps, the 3 cone drill, and the shuttle drill. 
+
+The data can be found at
+https://www.pro-football-reference.com/play-index/nfl-combine-results.cgi and the data can be downloaded into an excel workbook. I can also filter the data by player position and combine year.
+
+I will be using data from the years 2000-2010, and will calculate the average statistics for each year. If a player is above average in 2+ of the combine activities then they will be included in our data set. 
+
+Ultimately this project will be able to predict if a player with above average combine statistics will actually play in the NFL for more than the average of 3.3 years. This project will test the legitimacy of the combine and whether NFL owners and GMs actually should look to the combine as an accurate predictor of a player’s career. 
+
+Potential clients for this project would be NFL decision makers as well as agents who would represent player’s in contract negotiations. 
+
+Deliverables would be the code, summary/analysis and slide deck. 
